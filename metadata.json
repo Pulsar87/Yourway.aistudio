@@ -1,0 +1,9 @@
+{
+  "name": "YourWay",
+  "description": "A smart carpooling application connecting drivers and passengers for sustainable commuting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
